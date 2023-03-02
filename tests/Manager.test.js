@@ -1,0 +1,20 @@
+const Manager = require("../lib/Manager");
+
+test("Can create an office number.", () => {
+    const testOfficeNumber = 2;
+    const employeeInstance = new Manager("Junaid", 2, "mjunaid@live.co.uk", testOfficeNumber);
+    expect(employeeInstance.officeNumber).toBe(testOfficeNumber);
+});
+
+test("Testing officeNumber will return office number.", () => {
+    const testOfficeNumber = 2;
+    const employeeInstance = new Manager("Junaid", 2, "mjunaid@live.co.uk", testOfficeNumber);
+    expect(employeeInstance.getOfficeNumber()).toBe(testOfficeNumber);
+});
+
+test("Testing role.", () => {
+    const returnValue = "Manager";
+    const employeeInstance = new Manager("Junaid", 2, "mjunaid@live.co.uk", 2);
+    expect(employeeInstance.getRole()).toBe(returnValue);
+});
+Footer
