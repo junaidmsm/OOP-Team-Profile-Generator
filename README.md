@@ -24,9 +24,9 @@ In this project a Node.js command-line application will be build that takes in i
 
   Inquirer used in terminal to answer each of the required information about the project.
 
-    [Screenshot](Screenshot.png)
+  [Screenshot](Screenshot.png)
 
-    [Walkthrough Video](https://www.loom.com/embed/b061f0298f9746b8b0edcae296339616)
+  [Walkthrough Video](https://www.loom.com/embed/b061f0298f9746b8b0edcae296339616)
 
 
   ## Tests
