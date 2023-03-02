@@ -24,7 +24,7 @@ In this project a Node.js command-line application will be build that takes in i
 
   Inquirer used in terminal to answer each of the required information about the project.
 
-  [Screenshot]
+  [Screenshot](Screenshot.png)
   <image src = "C:\Users\Guest1\Desktop\challenges\OOP-Team-Profile-Generator\Screenshot.png">
 
 
