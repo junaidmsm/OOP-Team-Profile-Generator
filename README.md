@@ -24,6 +24,8 @@ In this project a Node.js command-line application will be build that takes in i
 
   Inquirer used in terminal to answer each of the required information about the project.
 
+  [Screenshot](Screenshot (71).png)
+
 
   ## Tests
   Run npm test by running jest to get the required prompts for input
