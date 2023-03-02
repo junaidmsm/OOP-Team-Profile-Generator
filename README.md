@@ -1,4 +1,4 @@
-# OOp-Team-Profile-Generator
+# OOP-Team-Profile-Generator
 ## Description
 In this project a Node.js command-line application will be build that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.This Challenge will combine the use of Jest for running the unit tests and Inquirer for collecting input from the user. Which has been presented successfully in the application.
 
