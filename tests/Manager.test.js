@@ -17,4 +17,3 @@ test("Testing role.", () => {
     const employeeInstance = new Manager("Junaid", 2, "mjunaid@live.co.uk", 2);
     expect(employeeInstance.getRole()).toBe(returnValue);
 });
-Footer
